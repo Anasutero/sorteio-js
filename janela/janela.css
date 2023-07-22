@@ -1,0 +1,16 @@
+#btn-info{
+    border: 1px;
+    background-color: transparent;
+}
+.details{
+    display: none;
+    width: 0px;
+}
+div{
+    display: block;
+    width: 400px;
+}
+#detalhes{
+    display: block;
+    width: 300px;
+}
